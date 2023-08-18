@@ -1,38 +1,81 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --main-color: #BA0C2F;
+  --light-red: #f7c8d15c;
+  --brown-color: #B69A63;
+  --success-color: #28a745;
+  --light-gray: #F8F8F8;
+  --white-color: #fff;
+  --section-margin: 50px;
+  --dark-color: #212529;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* Start Global rules */
+.flex-center {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+
+input:focus,
+select:focus {
+  outline: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ul {
+  list-style: none;
+  padding: 0;
 }
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* End Global rules */
+
+
+
+/* Start Home Sections */
+.home-page .grand-title h2 {
+  display: inline-block;
+  font-size: 1.85rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.home-page .grand-title>span {
+  display: inline-block;
+  height: 2px;
+  width: 100px;
+  background-color: #BA0C2F;
+  margin-bottom: 9px;
+  margin-left: 5px;
+}
+
+.resp-section {
+  padding: 50px 0;
+}
+
+/* End Home Sections */

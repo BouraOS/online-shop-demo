@@ -1,0 +1,109 @@
+/* Start Styling Card */
+
+.ProductSliderItem {
+    display: block;
+    color: var(--dark-color);
+    border: 1px solid #dedede;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px;
+    position: relative;
+    transition: all 0.2s;
+
+}
+
+.ProductSliderItem:hover {
+    box-shadow: 0 0 20px 0 hsla(0, 0%, 80%, .75);
+    -webkit-box-shadow: 0 0 20px 0 hsla(0, 0%, 80%, .75);
+    -moz-box-shadow: 0 0 20px 0 hsla(0, 0%, 80%, .75);
+}
+
+.ProductSliderItem .thumbnail {
+    margin-inline: 30px;
+}
+
+.ProductSliderItem .thumbnail img {
+    height: 235px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.product-item-heading {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-item-heading>h5 {
+    color: #444;
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin: 0;
+    padding-top: 6px;
+    line-height: 1.4;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    /* number of lines to show */
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.product-item-heading>span {
+    color: #b69a63;
+    font-size: .85rem;
+    font-weight: 400;
+}
+
+.ProductSliderItem .product-item-footer {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+    min-height: 58px;
+}
+
+.product-item-footer .item-pricing {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-item-footer .item-pricing .price {
+    color: #999;
+    font-size: .75rem;
+    margin-bottom: -4px;
+    position: relative;
+}
+
+.product-item-footer .item-pricing .price::before {
+    border-color: currentcolor #ba0c2f #ba0c2f;
+    border-top-color: currentcolor;
+    border-top: 1px solid #ba0c2f;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+}
+
+.product-item-footer .item-pricing .new-price {
+    font-size: 1.12rem;
+    font-weight: 600;
+}
+
+.product-item-footer button {
+    background-color: #ba0c2f;
+    border-radius: 4px 0 0 4px;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: .85rem;
+    height: fit-content;
+    margin-right: -16px;
+    padding: 6px 20px;
+}
+
+/* End Styling Card */

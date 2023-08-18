@@ -1,0 +1,211 @@
+/* Start header section */
+.top-header {
+    box-shadow: 0 6px 5px 0 rgba(0, 0, 0, .05);
+    -webkit-box-shadow: 0 6px 5px 0 rgba(0, 0, 0, .05);
+    -moz-box-shadow: 0 6px 5px 0 rgba(0, 0, 0, .05);
+}
+
+.top-header {
+    padding-inline: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+}
+
+.navbar-brand {
+    color: var(--dark-color);
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.navbar-brand>span {
+    color: var(--main-color);
+}
+
+@media (min-width: 768px) {
+    .navbar {
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+        height: 100%;
+        gap: 10px;
+        flex-grow: 1;
+    }
+
+    .navbar-links {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        margin-inline: auto;
+        gap: 3px;
+    }
+
+    .nav-link a {
+        font-size: 14px;
+        height: fit-content;
+        font-weight: 600;
+        color: var(--dark-color);
+        display: inline-block;
+        font-size: 20px;
+        padding: 8px 16px;
+        border-radius: 50px;
+        transition: 0.2S;
+    }
+
+    .nav-link a {
+        font-size: 14px;
+    }
+}
+
+.nav-link a:hover{
+    background-color: var(--light-red);
+    color: var(--dark-color);
+}
+
+.nav-link > a.active {
+    background-color: var(--main-color);
+    color: var(--white-color);
+}
+
+@media (min-width: 768px) {
+    .search {
+        max-width: 200px;
+    }
+
+    .search>input {
+        width: 90%;
+    }
+
+    .search>input:focus {
+        border-color: var(--main-color) !important;
+        outline: 0;
+        box-shadow: none;
+    }
+}
+
+.right-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.cart-btn {
+    background-color: transparent;
+    color: var(--dark-color);
+    border: none;
+    position: relative;
+}
+
+.fa-cart-shopping {
+    font-size: 22px;
+}
+
+.right-header .cart-notification {
+    position: absolute;
+    top: -10px;
+    left: 100%;
+    transform: translateX(-50%);
+    background-color: var(--main-color);
+    font-size: 10px;
+    color: var(--white-color);
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 50%;
+}
+
+.signup-btn:hover,
+.signup-btn {
+    font-size: 14px;
+    background-color: var(--main-color);
+    color: var(--light-gray);
+}
+
+@media (max-width: 767px) {
+    .fa-bars {
+        color: var(--dark-color);
+        font-size: 30px;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 768px) {
+    .fa-bars {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        font-size: 14px;
+        position: absolute;
+        top: 55px;
+        left: 0;
+        right: 0;
+        width: 100vw;
+        background: var(--dark-color);
+        transition: all 0.2S;
+        gap: 30px;
+        padding: 0;
+        overflow: hidden;
+        height: 0;
+        z-index: 9999;
+    }
+
+    .navbar.active {
+        height: 270px;
+    }
+
+    .navbar.active .navbar-links {
+        display: block;
+        width: fit-content;
+        margin: 10px auto 0 auto;
+        text-align: center;
+        transition: 0.5s;
+        opacity: 1;
+    }
+
+    .navbar .navbar-links {
+        opacity: 0;
+    }
+
+    .navbar.active .nav-link {
+        margin-bottom: 15px;
+    }
+
+    .navbar.active .nav-link a {
+        font-size: 14px;
+        height: fit-content;
+        font-weight: 600;
+        color: var(--white-color);
+        display: inline-block;
+        padding: 8px 16px;
+        border-radius: 50px;
+        transition: 0.5s;
+    }
+
+    .search {
+        transition: 0.5s;
+        display: none;
+    }
+
+    .navbar.active .search {
+        margin-top: 30px;
+        display: block;
+    }
+
+    .search>input:focus {
+        color: var(--bs-body-color);
+        background-color: var(--bs-body-bg);
+        border-color: var(--main-color);
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem var(--light-red);
+
+    }
+}
+
+/* End header section */
