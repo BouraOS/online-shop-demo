@@ -5,18 +5,22 @@ import Products from './pages/Products/Products';
 import About from './pages/About/About';
 import ProductDetails from './pages/ProductDetails/ProductDetails';
 
+import { QueryClientProvider} from 'react-query'
+import { queryClient } from './Api/ApiCalls';
+
 function App() {
 
   return (
-    <div className="App">
-      <Routes>
-          <Route exact path="/" element={<Home />} />
-          <Route path='about' element={<About />} />
-          <Route path='products' element={<Products />} />
-          <Route exact path="products/:id" element={<ProductDetails />} />
-      </Routes>
-
-    </div>
+    <QueryClientProvider client={queryClient}>
+      <div className="App">
+        <Routes>
+            <Route exact path="/" element={<Home />} />
+            <Route path='about' element={<About />} />
+            <Route path='products' element={<Products />} />
+            <Route exact path="products/:id" element={<ProductDetails />} />
+        </Routes>
+      </div>
+    </QueryClientProvider>
   );
 }
 

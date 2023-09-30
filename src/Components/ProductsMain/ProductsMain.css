@@ -1,8 +1,24 @@
+.recommended {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recommended-title {
+    font-size: 30px;
+}
+.recommended-flex > button {
+    margin-left: 10px;
+}
+
+.recommended-flex > .btn:hover {
+    color: black;
+    background-color: #f9f9f9;
+}
 /** products-filter_nav **/
 .products-filter_nav {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
     margin-top: -20px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     text-align: right;

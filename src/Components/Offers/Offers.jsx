@@ -1,9 +1,15 @@
+import axios from 'axios';
+import { useQuery } from 'react-query';
 import Card from "../Card/Card";
 
-export default function Offers({title, data, query}) {
+const getData = async (tagNames) => {
+	const response = await axios.get(`http://localhost:5000/products?tagNames=${tagNames}`);
+  return response.data;
+}
 
-  // FILTER DATA
-  const Productdata = data?.filter(p => p.tagNames === query)
+export default function Offers({title, query}) {
+
+  const { data: Productdata } = useQuery(['productsData',query],() => getData(query) )
 
   return (
     <section className="container mb-5">

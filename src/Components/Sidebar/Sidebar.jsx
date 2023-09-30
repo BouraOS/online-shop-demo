@@ -6,15 +6,15 @@ import FilterByCategories from './FilterByCategories'
 import FilterByGender from './FilterByGender'
 import FilterByColors from './FilterByColors'
 
-export default function Sidebar() {
+export default function Sidebar({query, handleSearchInputChange}) {
   return (
-    <div className="Sidebar col-4 col-lg-3 d-none d-md-block mt-md-3">
-        <SearchBox/>
+    <>
+        <SearchBox query={query} handleSearchInputChange={handleSearchInputChange} />
         <SortBox />
         <FilterByRange />
         <FilterByCategories />
         <FilterByGender />
         <FilterByColors />
-    </div>
+    </>
   )
 }

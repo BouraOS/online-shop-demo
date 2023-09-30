@@ -2,13 +2,14 @@ import { Link } from "react-router-dom"
 import "./card.css"
 
 export default function Card({ product }) {
+
     return (
         <Link to={`/products/${product?.id}`} className="ProductSliderItem" >
             <div className="thumbnail">
-                <img src={product?.image} alt={product?.nameEn} />
+                <img src={product?.image} alt={product?.name} />
             </div>
             <div className="product-item-heading">
-                <h5>{product?.nameEn}</h5>
+                <h5>{product?.name}</h5>
                 <span>By {product?.brand}</span>
             </div>
             <div className="product-item-footer">

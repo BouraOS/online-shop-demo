@@ -1,6 +1,5 @@
 /** ALl Products page **/
 
-
 /** sidebar **/
 .Sidebar {
     padding: 20px;
@@ -202,4 +201,9 @@
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 3px;
     cursor: pointer;
+}
+
+.all-colors {
+    background: rgb(249,13,5);
+background: radial-gradient(circle, rgba(249,13,5,1) 0%, rgba(12,245,4,1) 50%, rgba(10,38,241,1) 100%);
 }

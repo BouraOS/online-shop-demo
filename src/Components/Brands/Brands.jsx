@@ -1,6 +1,15 @@
-import React from 'react'
+import axios from 'axios';
+import { useQuery } from 'react-query';
 
-export default function Brands({ brandsData }) {
+const getData = async () => {
+	const response = await axios.get(`http://localhost:5000/brands`);
+  return response.data;
+}
+
+export default function Brands() {
+
+  const { data: brandsData } = useQuery('brandsData', getData )
+
   return (
     <section className='container mb-5'>
       <div className='grand-title container mt-4'>

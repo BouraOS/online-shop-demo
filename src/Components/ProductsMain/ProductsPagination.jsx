@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export default function ProductsPagination({pages, currentPage , setCurrentPage}) {
+export default function ProductsPagination({data, pages, currentPage , setCurrentPage}) {
+    const data_length = data?.length
     const generatedPages = []
     for(let i=1 ; i <= pages; i++) {
         generatedPages.push(i)

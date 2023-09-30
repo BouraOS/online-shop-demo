@@ -1,597 +1,716 @@
 {
   "products": [
-      {
-        "id": "0WQY20",
-        "nameEn": "DONNA BORN IN ROMA  -Eau De Parfum- 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/5ATLRAM_720x720px-48.jpg",
-        "price": 102.00,
-        "newPrice": 92.00,
-        "descriptionEn": "An elegant fragrance featuring a trio of jasmine modernized by vanilla and a woody accord.",
-        "category": "Parfum",
-        "brand": "VALENTINO",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "R5JU9O",
-        "nameEn": "VOCE VIVA -Eau De Parfum- 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/XWYPRAM_720x720px-46.jpg",
-        "price": 102.00,
-        "newPrice": 92.00,
-        "descriptionEn": "A floral reinterpretation of Valentino’s contemporary femininity: a heady harmony, a timeless, unexpected and addictive fragrance.",
-        "category": "Parfum",
-        "brand": "VALENTINO",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "VBGQFO",
-        "nameEn": "PARADOXE -Eau De Parfum- 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/MFOURAM_720x720px-44.jpg",
-        "price": 102.00,
-        "newPrice": 92.00,
-        "descriptionEn": "Une Eau de Parfum fl orale ambrée qui révèle de nouvelles sensations olfactives en explorant les paradoxes d’ingrédients iconiques.",
-        "category": "Parfum",
-        "brand": "Prada",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "RFLSIN",
-        "nameEn": "FAME -Eau De Parfum- 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/TK23RAM_720x720px-26.jpg",
-        "price": 86.00,
-        "newPrice": 78.00,
-        "descriptionEn": "Fame combines an exceptionally pure jasmine with a succulent mango and a creamy, sensual, addictive incense.",
-        "category": "Parfum",
-        "brand": "Paco Rabanne",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "EFEQ2P",
-        "nameEn": "My Way - Eau de Parfum",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/LTTNRAM_myway.jpg",
-        "price": 84.00,
-        "newPrice": 76.00,
-        "descriptionEn": "Discover My Way, the new feminine fragrance by Giorgio Armani. My Way is an invitation to broaden your horizons and live meaningful encounters around the world. A bright white floral bouquet is encapsulated in a talisman bottle, a metaphor for the world.",
-        "category": "Parfum",
-        "brand": "Giorgio Armani",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "6XGR0M",
-        "nameEn": "LUNA ROSA OCEAN -Eau De Toilette- 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/ZE2KRAM_720x720px-43.jpg",
-        "price": 79.00,
-        "newPrice": 71.00,
-        "descriptionEn": "A signature encapsulating a burst of bergamot, contrasted with the sensuality of vetiver and iris notes. ",
-        "category": "Parfum",
-        "brand": "Prada",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "QSORU3",
-        "nameEn": "Scandal pour homme EDT 50 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/JJ8SRAM_scandal-homme.jpg",
-        "price": 67.00,
-        "descriptionEn": "With muscled elegance and boxing gloves on, the new Scandal pour homme hits hard with an energising and addictive eau de toilette. A woody oriental fragrance with notes of tonka bean, sage and vetiver. Refillable bottle.",
-        "category": "Parfum",
-        "brand": "Jean Paul Gaultier",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "XDMYSZ",
-        "nameEn": "Montre Retro Multifonction",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/TZACRAM_festina-black.jpg",
-        "price": 92.00,
-        "newPrice": 83.00,
-        "descriptionEn": "This multifunction quartz watch (day, date and 24-hour) features classy touches: stainless steel case, black leather strap and dial with detailed finishes. Elegant, it is also practical: the hands glow in the dark and the mineral glass reinforced. Water resistance 5 ATM: shower or swim resistant (surface only).",
-        "category": "Montres",
-        "brand": "Festina",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "CFVWRW",
-        "nameEn": "Huile Prodigieuse X 2 + GIFT ",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/QJQHNuxe_Huile_Prodigieuse_x2-compressed.jpg",
-        "images": ["https://skyshop.royalairmaroc.com/skyimgs/images/2I3BGift_summer_pouch-compressed NUXE.jpg"],
-        "price": 62.00,
-        "newPrice": 56.00,
-        "descriptionEn": "The all-in-one product that nourishes, repairs,and beautifi es skin and hair from fi rst application. Silicone and paraben free.",
-        "category": "Cosmétiques",
-        "brand": "Nuxe",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "DPXRRS",
-        "nameEn": "Azzaro - Eau de Toilette",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/96GJRAM_azzaro-homme.jpg",
-        "price": 34.00,
-        "newPrice": 31.00,
-        "descriptionEn": "A liverly powerful sillage that combines natural sensuality ans elegance. Notes of anise, lavender and vetiver.",
-        "category": "Parfum",
-        "brand": "Azzaro",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "8PC390",
-        "nameEn": "White watch",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/KAJSRAM_lacoste-white.jpg",
-        "price": 91.00,
-        "newPrice": 82.00,
-        "descriptionEn": "The iconic design details of the polo shirt are brought to the wrist with a sleek and modern reinterpretation of the Lacoste.12.12 for her. A petit-piqué pattern on the outer of the bold curved dial and the center of the silicone strap provides eye-catching detail, while a crocodile at 3 o’clock adds signature Lacoste branding. Offered in a choice of monochrome colors, the watch is complete with hands and stick indexes in polished metal for a feminine touch. 2-year international warranty. ",
-        "category": "Montres",
-        "brand": "Lacoste",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "AG4NHB",
-        "nameEn": "Phantom EDT 50ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/YFAMRAM_paco-phantom.jpg",
-        "price": 63.00,
-        "newPrice": 57.00,
-        "descriptionEn": "Futuristic aromatic fragrance born from the clash between luxury craftmanship and new tech. A bold scent with notes of addictive creamy lavender, energising lemon and sexy, woody vanilla.",
-        "category": "Parfum",
-        "brand": "Paco Rabanne",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "CV9EFE",
-        "nameEn": "ARMANI CODE PARFUM -Eau De Parfum- 75 ML",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/A5N0RAM_720x720px-52.jpg",
-        "price": 114.00,
-        "newPrice": 103.00,
-        "descriptionEn": "Fragrance for men with aromatic and woody notes,for a powerful and sensual trail.",
-        "category": "Parfum",
-        "brand": "Giorgio Armani",
-        "tagNames":	"Best_sellers"
-      }, {
-        "id": "F0WLJ6",
-        "nameEn": "Black watch",
-        "image": "https://skyshop.royalairmaroc.com/skyimgs/images/RBMURAM_lacoste-black.jpg",
-        "price": 91.00,
-        "newPrice": 82.00,
-        "descriptionEn": "Lacoste reinvents the Lacoste.12.12 for a new generation as it reinterprets the brand’s signature watch in a sleek and minimalist design. With a new rounded and faceted case and matt-finish bezel, the three-hand timepiece is offered in a choice of monochrome colors including the classic Lacoste green. Inspired by the iconic polo shirt, the timepiece features a crocodile at 3 o’clock, and a petit piqué pattern at the center of the silicone strap and the outer of the bold curved dial. 2-year international warranty. \n",
-        "category": "Montres",
-        "brand": "Lacoste",
-        "tagNames":	"Best_sellers" 
-      },
-      {
+    {
+      "id": "0WQY20",
+      "name": "DONNA BORN IN ROMA  -Eau De Perfumes- 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/5ATLRAM_720x720px-48.jpg",
+      "price": 102.00,
+      "newPrice": 92.00,
+      "descriptionEn": "An elegant fragrance featuring a trio of jasmine modernized by vanilla and a woody accord.",
+      "category": "Perfumes",
+      "brand": "VALENTINO",
+      "tagNames": "Best_sellers",
+      "color": "red",
+      "gender": "women"
+    },
+    {
+      "id": "R5JU9O",
+      "name": "VOCE VIVA -Eau De Perfumes- 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/XWYPRAM_720x720px-46.jpg",
+      "price": 102.00,
+      "newPrice": 92.00,
+      "descriptionEn": "A floral reinterpretation of Valentino’s contemporary femininity: a heady harmony, a timeless, unexpected and addictive fragrance.",
+      "category": "Perfumes",
+      "brand": "VALENTINO",
+      "tagNames": "Best_sellers",
+      "color": "pink",
+      "gender":"women"
+    },
+    {
+      "id": "VBGQFO",
+      "name": "PARADOXE -Eau De Perfumes- 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/MFOURAM_720x720px-44.jpg",
+      "price": 102.00,
+      "newPrice": 92.00,
+      "descriptionEn": "Une Eau de Perfumes fl orale ambrée qui révèle de nouvelles sensations olfactives en explorant les paradoxes d’ingrédients iconiques.",
+      "category": "Perfumes",
+      "brand": "Prada",
+      "tagNames": "Best_sellers",
+      "color": "pink"
+    },
+    {
+      "id": "RFLSIN",
+      "name": "FAME -Eau De Perfumes- 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/TK23RAM_720x720px-26.jpg",
+      "price": 86.00,
+      "newPrice": 78.00,
+      "descriptionEn": "Fame combines an exceptionally pure jasmine with a succulent mango and a creamy, sensual, addictive incense.",
+      "category": "Perfumes",
+      "brand": "Paco Rabanne",
+      "tagNames": "Best_sellers",
+      "color": "yellow"
+    },
+    {
+      "id": "EFEQ2P",
+      "name": "My Way - Eau de Perfumes",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/LTTNRAM_myway.jpg",
+      "price": 84.00,
+      "newPrice": 76.00,
+      "descriptionEn": "Discover My Way, the new feminine fragrance by Giorgio Armani. My Way is an invitation to broaden your horizons and live meaningful encounters around the world. A bright white floral bouquet is encapsulated in a talisman bottle, a metaphor for the world.",
+      "category": "Perfumes",
+      "brand": "Giorgio Armani",
+      "tagNames": "Best_sellers",
+      "color": "pink",
+      "gender":"women"
+    },
+    {
+      "id": "6XGR0M",
+      "name": "LUNA ROSA OCEAN -Eau De Toilette- 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/ZE2KRAM_720x720px-43.jpg",
+      "price": 79.00,
+      "newPrice": 71.00,
+      "descriptionEn": "A signature encapsulating a burst of bergamot, contrasted with the sensuality of vetiver and iris notes. ",
+      "category": "Perfumes",
+      "brand": "Prada",
+      "tagNames": "Best_sellers",
+      "color": "blue"
+    },
+    {
+      "id": "QSORU3",
+      "name": "Scandal pour homme EDT 50 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/JJ8SRAM_scandal-homme.jpg",
+      "price": 75.00,
+      "newPrice": 67.00,
+      "descriptionEn": "With muscled elegance and boxing gloves on, the new Scandal pour homme hits hard with an energising and addictive eau de toilette. A woody oriental fragrance with notes of tonka bean, sage and vetiver. Refillable bottle.",
+      "category": "Perfumes",
+      "brand": "Jean Paul Gaultier",
+      "tagNames": "Best_sellers",
+      "color": "red",
+      "gender": "men"
+    },
+    {
+      "id": "XDMYSZ",
+      "name": "Montre Retro Multifonction",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/TZACRAM_festina-black.jpg",
+      "price": 92.00,
+      "newPrice": 83.00,
+      "descriptionEn": "This multifunction quartz watch (day, date and 24-hour) features classy touches: stainless steel case, black leather strap and dial with detailed finishes. Elegant, it is also practical: the hands glow in the dark and the mineral glass reinforced. Water resistance 5 ATM: shower or swim resistant (surface only).",
+      "category": "Watches",
+      "brand": "Festina",
+      "tagNames": "Best_sellers",
+      "color": "black"
+    },
+    {
+      "id": "CFVWRW",
+      "name": "Huile Prodigieuse X 2 + GIFT ",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/QJQHNuxe_Huile_Prodigieuse_x2-compressed.jpg",
+      "images": [
+        "https://skyshop.royalairmaroc.com/skyimgs/images/2I3BGift_summer_pouch-compressed NUXE.jpg"
+      ],
+      "price": 62.00,
+      "newPrice": 56.00,
+      "descriptionEn": "The all-in-one product that nourishes, repairs,and beautifi es skin and hair from fi rst application. Silicone and paraben free.",
+      "category": "Cosmétiques",
+      "brand": "Nuxe",
+      "tagNames": "Best_sellers",
+      "color": "yellow"
+    },
+    {
+      "id": "DPXRRS",
+      "name": "Azzaro - Eau de Toilette",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/96GJRAM_azzaro-homme.jpg",
+      "price": 34.00,
+      "newPrice": 31.00,
+      "descriptionEn": "A liverly powerful sillage that combines natural sensuality ans elegance. Notes of anise, lavender and vetiver.",
+      "category": "Perfumes",
+      "brand": "Azzaro",
+      "tagNames": "Best_sellers",
+      "color": "yellow",
+      "gender": "men"
+    },
+    {
+      "id": "8PC390",
+      "name": "White watch",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/KAJSRAM_lacoste-white.jpg",
+      "price": 91.00,
+      "newPrice": 82.00,
+      "descriptionEn": "The iconic design details of the polo shirt are brought to the wrist with a sleek and modern reinterpretation of the Lacoste.12.12 for her. A petit-piqué pattern on the outer of the bold curved dial and the center of the silicone strap provides eye-catching detail, while a crocodile at 3 o’clock adds signature Lacoste branding. Offered in a choice of monochrome colors, the watch is complete with hands and stick indexes in polished metal for a feminine touch. 2-year international warranty. ",
+      "category": "Watches",
+      "brand": "Lacoste",
+      "tagNames": "Best_sellers",
+      "color": "white",
+      "gender":"women"
+    },
+    {
+      "id": "AG4NHB",
+      "name": "Phantom EDT 50ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/YFAMRAM_paco-phantom.jpg",
+      "price": 63.00,
+      "newPrice": 57.00,
+      "descriptionEn": "Futuristic aromatic fragrance born from the clash between luxury craftmanship and new tech. A bold scent with notes of addictive creamy lavender, energising lemon and sexy, woody vanilla.",
+      "category": "Perfumes",
+      "brand": "Paco Rabanne",
+      "tagNames": "Best_sellers",
+      "color": "white"
+    },
+    {
+      "id": "CV9EFE",
+      "name": "ARMANI CODE Perfumes -Eau De Perfumes- 75 ML",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/A5N0RAM_720x720px-52.jpg",
+      "price": 114.00,
+      "newPrice": 103.00,
+      "descriptionEn": "Fragrance for men with aromatic and woody notes,for a powerful and sensual trail.",
+      "category": "Perfumes",
+      "brand": "Giorgio Armani",
+      "tagNames": "Best_sellers",
+      "color": "black",
+      "gender": "men"
+    },
+    {
+      "id": "F0WLJ6",
+      "name": "Black watch",
+      "image": "https://skyshop.royalairmaroc.com/skyimgs/images/RBMURAM_lacoste-black.jpg",
+      "price": 91.00,
+      "newPrice": 82.00,
+      "descriptionEn": "Lacoste reinvents the Lacoste.12.12 for a new generation as it reinterprets the brand’s signature watch in a sleek and minimalist design. With a new rounded and faceted case and matt-finish bezel, the three-hand timepiece is offered in a choice of monochrome colors including the classic Lacoste green. Inspired by the iconic polo shirt, the timepiece features a crocodile at 3 o’clock, and a petit piqué pattern at the center of the silicone strap and the outer of the bold curved dial. 2-year international warranty. \n",
+      "category": "Watches",
+      "brand": "Lacoste",
+      "tagNames": "Best_sellers",
+      "color": "black"
+    },
+    {
       "id": "0623DO",
-      "nameEn": "VINTAGE STYLE JEWELRY BOX",
+      "name": "VINTAGE STYLE JEWELRY BOX",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/Y1AI31.jpg",
       "price": 50.00,
       "newPrice": 45.00,
       "descriptionEn": "A high quality vintage style moroccan jewelry box, made with ceramic and adorned with metal that follows the handpainted geometric deisgn. \nDimensions: 13 cm width and 5 cm height\n\nMade in Fez\nBy purchasing this item, you are supporting the community of artisan behind these items\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "gray"
+    },
+    {
       "id": "0QCFBJ",
-      "nameEn": "ETERNAL BRACELET - GREY",
+      "name": "ETERNAL BRACELET - GREY",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/GHVU4 (1).jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "Handmade bracelet, it is made from Sabra, a vegan silk made from cactus fiber in Morocco.\nDimensions : 7 cm diameter\nColor: Brown\n\nMade in the rural area of Marrakech",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "gray"
+    },
+    {
       "id": "4Q56RH",
-      "nameEn": "SET OF 2 DONI CUP",
+      "name": "SET OF 2 DONI CUP",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/22IASET-OF-2-DONI-CUP-MyTindy-1.jpg",
       "price": 25.00,
       "newPrice": 20.00,
       "descriptionEn": "These small cups decorated with geometric patterns and golden touch, will fit perfectly with your dishes. With these warm colors, they will be ideal for sharing a coffee.\n\nHand made in Fes, Morocco\nDimensions : 6.8 cm height x 5.3 cm diameter / 2.67″ height x 2.08″ diameter",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "white"
+    },
+    {
       "id": "91OR6J",
-      "nameEn": "SET OF 2 LAVIN CUP",
+      "name": "SET OF 2 LAVIN CUP",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/C2OD3.jpg",
       "price": 25.00,
       "newPrice": 20.00,
       "descriptionEn": "These small cups decorated with geometric patterns and golden touch, will fit perfectly with your dishes. With these warm colors, they will be ideal for sharing a coffee.\n\nHand made in Fes, Morocco\nDimensions : 6.8 cm height x 5.3 cm diameter / 2.67″ height x 2.08″ diameter",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "9KEHFH",
-      "nameEn": "SET OF 3 BOTANICAL POSTERS",
+      "name": "SET OF 3 BOTANICAL POSTERS",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/H6EA18.jpg",
       "price": 53.00,
       "newPrice": 48.00,
       "descriptionEn": "Set of 3 botanical posters: Argan Tree, Date Palm Tree and Olive Tree.\nIndication of the name in english, french, arabic and tamazight, latin and usual name.\nDimensions: A4 21x29,7 cm / 8,26\" x 11,69\"\nDigital printing HQ format A4 ivory twill 360g, under individual cellophane.\nMaterials: ink & paper\nFrame is not included.\n\nMade in Marrakech",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "white"
+    },
+    {
       "id": "DCZ7ZM",
-      "nameEn": "SET OF 10 POST CARDS",
+      "name": "SET OF 10 POST CARDS",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/UREQ20.jpg",
       "price": 25.00,
       "newPrice": 20.00,
       "descriptionEn": "10 BOTANICAL POSTCARDS - Trees of Morocco: argan tree, banana tree, cactus, cedar, lemon tree, eucalyptus, jacaranda, olive tree, orange tree, palm tree.\nIndication of the name in english, french, arabic and tamazight, latin and usual name.\nDigital printing HQ format A6 POSTCARD, ivory twill 360g, under individual cellophane\nDimensions: A6 14,8 x 10,4 cm/ 5,82\" x 4,09\"\nMaterials: ink & paper\n\nMade in Marrakech\nBy purchasing this item, you are supporting the community of makers behind these items;\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "white"
+    },
+    {
       "id": "FU5989",
-      "nameEn": "ETERNAL BRACELET - BLUE",
+      "name": "ETERNAL BRACELET - BLUE",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/FHJT3 (1).jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "Handmade bracelet, it is made from Sabra, a vegan silk made from cactus fiber in Morocco.\nDimensions : 7 cm diameter\nColor: Blue\nMade in the rural area of Marrakech",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "NBEG8D",
-      "nameEn": "SET OF 2 SOBA CUP",
+      "name": "SET OF 2 SOBA CUP",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/UHL45.jpg",
       "price": 27.00,
       "newPrice": 23.00,
       "descriptionEn": "These small cups decorated with geometric patterns and golden touch, will fit perfectly with your dishes. With these warm colors, they will be ideal for sharing a coffee.\n\nHand made in Fes, Morocco\nDimensions : 6.8 cm height x 5.3 cm diameter / 2.67″ height x 2.08″ diameter",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "PSQJXJ",
-      "nameEn": "SET OF 2 DOTI CUP",
+      "name": "SET OF 2 DOTI CUP",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/4W8M1 (2).jpg",
       "price": 25.00,
       "newPrice": 20.00,
       "descriptionEn": "These small cups decorated with geometric patterns and golden touch, will fit perfectly with your dishes. With these warm colors, they will be ideal for sharing a coffee.\n\nHand made in Fes, Morocco\nDimensions : 6.8 cm height x 5.3 cm diameter / 2.67″ height x 2.08″ diameter",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "gray"
+    },
+    {
       "id": "RXF9W4",
-      "nameEn": "ETERNAL BRACELET - BROWN",
+      "name": "ETERNAL BRACELET - BROWN",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/JST05 (1).jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "Handmade bracelet, it is made from Sabra, a vegan silk made from cactus fiber in Morocco.\nDimensions : 7 cm diameter\nColor: brown\n\nMade in the rural area of Marrakech",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "brown"
+    },
+    {
       "id": "TY34AI",
-      "nameEn": "SET OF 2 MUCO CUP",
+      "name": "SET OF 2 MUCO CUP",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/CHRU1 (1).jpg",
-      "price": 25.00,
+      "price": 30.00,
+      "newPrice": 25.00,
       "descriptionEn": "These small cups decorated with geometric patterns and golden touch, will fit perfectly with your dishes. With these warm colors, they will be ideal for sharing a coffee.\n\nHand made in Fes, Morocco\nDimensions : 6.8 cm height x 5.3 cm diameter / 2.67″ height x 2.08″ diameter",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "ZV88FE",
-      "nameEn": "GENUINE LEATHER MOROCCAN POUF",
+      "name": "GENUINE LEATHER MOROCCAN POUF",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/9PK628.jpg",
       "price": 65.00,
       "newPrice": 60.00,
       "descriptionEn": "This traditional leather moroccan pouf is made of high quality 100% tanned goat leather colored with natural ingredients\n- Authentic leather\n- Dimensions: 50x30 cm / 20\"x12\" \n- Strong zipper on the bottom\n- The poufs are unstuffed: It is very easy to fill your pouf using your old cushions, sheets, towels, old newspaper \n- Cleaning: use a soft leather cleaner if needed\n\nMade in the Marrakech",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "yellow"
+    },
+    {
       "id": "PMIUUC",
-      "nameEn": "POSTER:  KOUTOUBIA MARRAKECH - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER:  KOUTOUBIA MARRAKECH - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/SQIG38.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n\n\nMade in Casablanca",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "0FE8IN",
-      "nameEn": "POSTER: HASSAN TOWER RABAT  - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER: HASSAN TOWER RABAT  - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/PNJM39.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n\nMade in Casablanca",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "12Y6H9",
-      "nameEn": "POSTER:  OF MOSQUEE HASSAN II CASABLANCA - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER:  OF MOSQUEE HASSAN II CASABLANCA - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/WA07HASSAN-II-MOSQUE-CASABLANCA-30X40CM_11.8_X25.7_-MyTindy-1.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n\nMade in Casablanca\nBy purchasing this item, you are supporting the community of artisan behind these items;\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "yellow"
+    },
+    {
       "id": "4C8KMG",
-      "nameEn": "POSTER: OF SURF MOROCCO - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER: OF SURF MOROCCO - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/NIT733.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n\nMade in Casablanca\nBy purchasing this item, you are supporting the community of artisan behind these items;\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "A5VO6W",
-      "nameEn": "POSTER: VISIT MOROCCO - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER: VISIT MOROCCO - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/FY5T37.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n100 % Made in Morocco\n\nMade in Casablanca\nBy purchasing this item, you are supporting the community of artisan behind these items;\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
-    }, {
+      "tagNames": "Newest",
+      "color": "blue"
+    },
+    {
       "id": "B5G1RW",
-      "nameEn": "POSTER: DAKHLA - 30X40CM/11.8\"X25.7\"",
+      "name": "POSTER: DAKHLA - 30X40CM/11.8\"X25.7\"",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/BDGC42.jpg",
       "price": 20.00,
       "newPrice": 15.00,
       "descriptionEn": "30×40 cm / 11.8\" x 15.7\"\nFrame not included - Our posters fit perfectly into standard frames.\nHigh-quality offset printing\nPaper (Recycle Cyclus Offset) - 100% recycled 170 gr/m2\nOur posters are carefully packed in their protective tubes.\n\nMade in Casablanca\nBy purchasing this item, you are supporting the community of artisan behind these items;\nThis is brought to you by Mytindy, the marketplace that enables artisans, cooperatives and small brands of Morocco to sell directly to consumers online.",
       "category": "Cadeaux Royal Air Maroc",
       "brand": "Mytindy",
-      "tagNames": "Newest"
+      "tagNames": "Newest",
+      "color": "blue"
     },
     {
       "id": "MCW0SV",
-      "nameEn": "Yes I Am - Eau de Parfum - 50 ML",
+      "name": "Yes I Am - Eau de Perfumes - 50 ML",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/ZWRERAM-05.jpg",
       "price": 60.00,
       "newPrice": 36.00,
       "descriptionEn": "A strong aspirational portrait of femininity, inspired by the lipstick : Yes IAm the first daring Spicy Cremoso.",
-      "category": "Parfum",
+      "category": "Perfumes",
       "brand": "Cacharel",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black",
+      "gender": "women"
+    },
+    {
       "id": "8YC2IG",
-      "nameEn": "AMOUR AIR SHELL Earbuds",
+      "name": "AMOUR AIR SHELL Earbuds",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/P1D5RAM-30.jpg",
       "price": 79.00,
       "newPrice": 47.00,
       "descriptionEn": "Built-in bluetooth 5.0 chipset, ensures stable signal, faster transmission and lower consumption. Built-in 60mAh lithium battery provides 3.5 hours binaural listening time, and 500mAh portable charging case supportes total 14 hours playing time. The latest vibrating diaphragm technology and super balanced bass for 3D natural sound, let you get lost in music ",
-      "category": "Electroniques",
+      "category": "Electronics",
       "brand": "Iwalk",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "LR2I68",
-      "nameEn": "Reversible bag Black/Red LACOSTE",
+      "name": "Reversible bag Red LACOSTE",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/8WEVRed L1212 bag.jpg",
       "price": 100.00,
       "newPrice": 60.00,
       "descriptionEn": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique reiciendis veniam distinctio minus, impedit maiores vero inventore laborum ab odit. ",
-      "category": "Accessoires",
+      "category": "Accessories",
       "brand": "Lacoste",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "red"
+    },
+    {
       "id": "E3ENJ9",
-      "nameEn": "Davidoff Exquisitos 10’s",
+      "name": "Davidoff Exquisitos 10’s",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/5KLFRAM-03.jpg",
       "price": 30.00,
       "newPrice": 18.00,
       "descriptionEn": "Davidoff Exquisitos is the smallest hand rolled cigar in the world. Made from whole tobacco leaves the same way as any other Davidoff cigar.\n",
       "category": "Tabac",
       "brand": "Davidoff",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "brown"
+    },
+    {
       "id": "0LLRWT",
-      "nameEn": "Davidoff Robusto Tubos Selection Black 3's",
+      "name": "Davidoff Robusto Tubos Selection Black 3's",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/GZMKdavidoff_davidoff_robusto_tub_selection_black_3s.jpg",
       "price": 49.00,
       "newPrice": 29.00,
       "descriptionEn": "Featuring Davidoff’s best-selling cigars in a popular tubo version, the Robusto Tubos Selection combines the 3 highly acclaimed Discovery blends (Nicaragua, Escurio & Yamasá) in one assortment.",
       "category": "Tabac",
       "brand": "Davidoff",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "K27D4Z",
-      "nameEn": "50 Mini Cigarillos",
+      "name": "50 Mini Cigarillos",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/KSYYRAM-04.jpg",
       "price": 47.00,
       "newPrice": 28.00,
       "descriptionEn": "Davidoff Mini Cigarillos consist of 100% natural tobacco from Indonesia and South America. The attractive Sumatra wrapper leaves are especially selected for Davidoff.",
       "category": "Tabac",
       "brand": "Davidoff",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "brown"
+    },
+    {
       "id": "16K0D7",
-      "nameEn": "Classic Men's Watch",
+      "name": "Classic Men's Watch",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/4KAJRAM_festina-blue.jpg",
       "price": 81.00,
       "newPrice": 77.00,
       "descriptionEn": "This three hands watch, day and date fonctions features a classy touch: stainless steel case, blue leather strap and dial, orange applied index.\nElegant, it is also practical: the hands are luminescent, the mineral glass is reinforced and water resistant up to 100 meters.",
-      "category": "Montres",
+      "category": "Watches",
       "brand": "Festina",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "blue"
+    },
+    {
       "id": "Q2J1F6",
-      "nameEn": "Smart Buds",
+      "name": "Smart Buds",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/FM2GRAM-28.jpg",
       "price": 15.00,
       "newPrice": 9.00,
       "descriptionEn": "Bitmore SmartBuds - auto pairing Bluetooth Hi fidelity sport\nearphones with mic. Magnet connection for auto shut off and\nauto pair. Supplied with carry case pouch.",
-      "category": "Electroniques",
+      "category": "Electronics",
       "brand": "Bitmore",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "I0V9X5",
-      "nameEn": "Davidoff S Tubos ",
+      "name": "Davidoff S Tubos ",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/LKL1RAM_davidoff.jpg",
       "price": 76.00,
       "newPrice": 72.00,
       "descriptionEn": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique reiciendis veniam distinctio minus, impedit maiores vero inventore laborum ab odit.",
       "category": "Tabac",
       "brand": "Davidoff",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "white"
+    },
+    {
       "id": "088YE0",
-      "nameEn": "Affinity Necklace",
+      "name": "Affinity Necklace",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/PGSQRAM-24.jpg",
       "price": 49.00,
       "newPrice": 29.00,
       "descriptionEn": "A delicate and elegant necklace embellished with Swarovski® crystals that make this jewel a perfect gift for the beloved woman.",
-      "category": "Bijoux",
+      "category": "Jewelry",
       "brand": "Brosway",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "pink",
+      "gender": "women"
+    },
+    {
       "id": "38IIZT",
-      "nameEn": "Duo of Leather Bracelets for Men",
+      "name": "Duo of Leather Bracelets for Men",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/OQNORAM-21.jpg",
       "price": 29.00,
       "newPrice": 17.00,
       "descriptionEn": "Stylish and trendy Lambretta bracelets in braided genuine leather,\none in black and one in cognac brown. Stainless steel clasp in\nelegant chrome or with an exclusive gold plating. 2 years\ninternational warranty.",
-      "category": "Bijoux",
+      "category": "Jewelry",
       "brand": "Lambretta",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "GP71XA",
-      "nameEn": "Sound and Light Toothbrush - IRON MAN",
+      "name": "Sound and Light Toothbrush - IRON MAN",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/firefly_brosse_a_dents_son_et_lumiere_avengers.jpg",
       "price": 10.00,
       "newPrice": 6.00,
       "descriptionEn": "Become an Avenger and join Iron Man on his mission to develop a\nhealthy oral care routine! Press the button and the brush will light up\nfor one minute to time your cleaning! It’s the ultimate Avengers\nweapon in the fight against plaque! Includes authentic Iron Man\nthrusters sounds and encouraging Tony Stark phrases including\n‘official brushing hours are between 7 and 8 every day’ and ‘who’s\nnot brushing’. The cover doubles up to protect the brush when\ntravelling. Batteries included.",
       "category": "Produits enfants",
       "brand": "Firefly",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "red"
+    },
+    {
       "id": "TRCIRT",
-      "nameEn": "Crystaldust Double Bangle Bracelet",
+      "name": "Crystaldust Double Bangle Bracelet",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/13WVRAM-23.jpg",
       "price": 79.00,
       "newPrice": 47.00,
       "descriptionEn": "A new signature design to equal Stardust and Slake, the\nirresistible Crystaldust Bangle is crafted using Swarovski’s\nCrystal Rock technique. It is lavishly encrusted with goldentoned\ncrystals for unparalleled sparkle. Its on-trend spiral\nsilhouette is versatile and expressive, whilst the gold PVD metal\ncapped ends, embellished with crystals, finish its clean design\nperfectly. Slip on to your arm for instant glamour or layer with\nothers for a high-octane look.",
-      "category": "Bijoux",
+      "category": "Jewelry",
       "brand": "Swarovski",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "yellow",
+      "gender": "women"
+    },
+    {
       "id": "VQ9ORG",
-      "nameEn": "Super Lustrous Lip Cube",
+      "name": "Super Lustrous Lip Cube",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/H56FRAM-13.jpg",
       "price": 46.00,
       "newPrice": 28.00,
       "descriptionEn": "An enticing lip wardrobe of 9 best selling shades. Infused with  mega-moisturizers and vitamins for silky smooth, soft and seductive  looking lips.\n",
       "category": "Cosmétiques",
       "brand": "Revlon",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "red",
+      "gender": "women"
+    },
+    {
       "id": "30CNZZ",
-      "nameEn": "Unisex Retro Watch",
+      "name": "Unisex Retro Watch",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/bergson_montre_retro_unisex.jpg",
       "price": 29.00,
       "newPrice": 17.00,
       "descriptionEn": "Professional and sleek, this retro style timepiece is a must-have for your collection. Stylish with a classic presentation this watch boasts a fashionable vintage case and digital dial. The watch compliments the case with a quality bracelet and is powered by a highly accurate quartz movement. Additional features include chronograph alarm, time/date and stopwatch. Two Years International Warranty.",
-      "category": "Montres",
+      "category": "Watches",
       "brand": "Bergson",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "yellow"
+    },
+    {
       "id": "QXVSDJ",
-      "nameEn": "Set of 12 Emoticone bracelets",
+      "name": "Set of 12 Emoticone bracelets",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/S3U4RAM-11.jpg",
       "price": 11.00,
       "newPrice": 7.00,
       "descriptionEn": "Un fantastique set de 12 bracelets Emoticone parfait pour toute la famille ou pour partager entre amis. Cet ensemble exclusif inclue les emojis les plus propulsifs avec deux éditions limitées argentées et dorées. Les bracelets élastiques s’adapteront à tous les poignets et sont présentés dans un petit sac en toile pratique pour les ranger ou garder ses affaires au sec au bord de la piscine !",
       "category": "Produits enfants",
       "brand": "Trrtlz",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "yellow"
+    },
+    {
       "id": "CDRL1A",
-      "nameEn": "Construction set",
+      "name": "Construction set",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/3FH361lMymwhRGL._AC_SX425_.jpg",
       "price": 20.00,
       "newPrice": 12.00,
       "descriptionEn": "Build 12 different models from the same parts (one at a time)! The patented snap-fit system will provide hours of fun while also enhancing creativity and imagination. Either download or follow step by step instructions. Free app for Android, Apple iOS and Windows is available to view the models in 3D.",
       "category": "Produits enfants",
       "brand": "Engino",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "blue"
+    },
+    {
       "id": "ZCJYTG",
-      "nameEn": "Fixr 20 in 1 Muti-Tools",
+      "name": "Fixr 20 in 1 Muti-Tools",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/0ZNVRAM-26.jpg",
       "price": 23.00,
       "newPrice": 14.00,
       "descriptionEn": "Always ready for use, with the most useful array of tools possible. The  revolutionary Multitool comes with amazing 20 tools in 1, but weights  only 40 grams. Clip to anything and simply twist into set positions to use  it to open parcels, envelopes or bottles, set screws, use as a ruler and  much more. Engineered in stainless steel, coated with gold and black titanium. Black calf leather protection cover inclusive.",
-      "category": "Accessoires",
+      "category": "Accessories",
       "brand": "True Utility",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "4CX1PU",
-      "nameEn": "Compact Styler detangles Rose Gold ",
+      "name": "Compact Styler detangles Rose Gold ",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/LX4PRAM-29.jpg",
       "price": 16.00,
       "newPrice": 10.00,
       "descriptionEn": "Both luxury and cool, rose gold is having a serious fashion moment.\nDetangle on-the-go with the new Rose Gold LUXE Compact Styler\ndetangling hairbrush, pink hued and pretty with the creamiest of ivories.\nScooping over 30 awards, this innovative beauty tool works like no\nother to detangle hair painlessly and easily. The secret lies in the teeth which flex through hair to gently loosen tangles with no tugging or pulling, leaving hair super shiny and smooth.",
-      "category": "Accessoires",
+      "category": "Accessories",
       "brand": "Tangle Teezer",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "pink"
+    },
+    {
       "id": "HOKN3U",
-      "nameEn": "Compact Styler detangles Prism",
+      "name": "Compact Styler detangles Prism",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/27TQRAM-10.jpg",
       "price": 16.00,
       "newPrice": 10.00,
       "descriptionEn": "The Tangle Teezer Compact Styler detangles and styles providing the perfect finishing touch thanks to the unique two-tiered teeth system leaving hair super shiny and smooth. The Compact Styler comes with a detachable, click-on, click-off cover that helps protect the teeth when carrying in a handbag. Scooping over 30 awards, this innovative beauty tool works like no other to detangle hair painlessly and easily.",
       "category": "Produits enfants",
       "brand": "Tangle Teezer",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "black"
+    },
+    {
       "id": "8C9UM2",
-      "nameEn": "ANGEL STAR-Eau de Parfum- 25 ML + FREE",
+      "name": "ANGEL STAR-Eau de Perfumes- 25 ML + FREE",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/7N2EAngel 25ml.jpg",
       "price": 51.00,
       "newPrice": 31.00,
-      "descriptionEn": " a glamourous journey through the angel dream, with the sensual and delicious\nnotes of Angel Eau de Parfum: bergamot, praline, patchouli & vanilla",
-      "category": "Parfum",
+      "descriptionEn": " a glamourous journey through the angel dream, with the sensual and delicious\nnotes of Angel Eau de Perfumes: bergamot, praline, patchouli & vanilla",
+      "category": "Perfumes",
       "brand": "Thierry Mugler",
-      "tagNames": "Great_deals"
-    }, {
+      "tagNames": "Great_deals",
+      "color": "blue"
+    },
+    {
       "id": "OM9XWI",
-      "nameEn": "Amour Air Duo IWALK",
+      "name": "Amour Air Duo IWALK",
       "image": "https://skyshop.royalairmaroc.com/skyimgs/images/9X43BTA002 (8).jpg",
       "price": 74.00,
       "newPrice": 44.00,
       "descriptionEn": "Chipset bluetooth 5.0 intégré, assure un signal stable, une transmission plus rapide et une consommation réduite. La batterie au lithium intégrée de 60 mAh offre 3,5 heures d’écoute et le boîtier de charge ortable de 500 mAh permet une autonomie totale de 14 heures de lecture. Ne vous inquiétez jamais de la faible charge de la batterie : la toute dernière technologie de diaphragme vibrant et des basses super équilibrées pour un son naturel en 3D, vous permettent de vous perdre dans la musique.",
-      "category": "Electroniques",
+      "category": "Electronics",
       "brand": "Iwalk",
-      "tagNames": "Great_deals"
+      "tagNames": "Great_deals",
+      "color": "black"
     }
   ],
-  "brands" : [
+  "brands": [
     {
-        "id": 12,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/1U11N.png"
+      "id": 12,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/1U11N.png"
     },
     {
-        "id": 8,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/3OYKI.jpg"
+      "id": 8,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/3OYKI.jpg"
     },
     {
-        "id": 5,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/4QSOF.png"
+      "id": 5,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/4QSOF.png"
     },
     {
-        "id": 6,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/9OPKG.png"
+      "id": 6,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/9OPKG.png"
     },
     {
-        "id": 3,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/CIVSC.jpg"
+      "id": 3,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/CIVSC.jpg"
     },
     {
-        "id": 2,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/DC0LB.png"
+      "id": 2,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/DC0LB.png"
     },
     {
-        "id": 4,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/IQAZD.png"
+      "id": 4,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/IQAZD.png"
     },
     {
-        "id": 11,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/J3I0M.png"
+      "id": 11,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/J3I0M.png"
     },
     {
-        "id": 1,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/PVZ7A.jpg"
+      "id": 1,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/PVZ7A.jpg"
     },
     {
-        "id": 13,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/Q974O.jpg"
+      "id": 13,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/Q974O.jpg"
     },
     {
-        "id": 9,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/SEW2K.png"
+      "id": 9,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/SEW2K.png"
     },
     {
-        "id": 7,
-        "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/Y11FH.png"
+      "id": 7,
+      "imageName": "https://skyshop.royalairmaroc.com/skyimgs/images/Y11FH.png"
     }
   ]
-
 }
